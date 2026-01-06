@@ -8,3 +8,4 @@ if age.isdigit():
     age = int(age)  # Convert age to integer
 else:
     print("error")  # Invalid age input
+
